@@ -1,0 +1,1 @@
+FROM xuxueli/xxl-job-admin
